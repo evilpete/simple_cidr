@@ -3,6 +3,10 @@
 import socket
 import struct
 
+# Peter Shipley
+# peter.shipley@gmail.com
+# Sun Dec 16 20:11:53 PST 2018
+
 
 ip_debug = 0
 

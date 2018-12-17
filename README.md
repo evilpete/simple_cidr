@@ -3,6 +3,8 @@
 
 A simple lightweight IPv4 CIDR address toolbox
 
+written: Peter Shipley
+
 
 Small and fast IPv4 network address tool (75% faster then netaddr)
 
