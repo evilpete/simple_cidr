@@ -3,7 +3,6 @@
 
 A simple lightweight IPv4 CIDR address toolbox
 
-written: Peter Shipley
 
 
 Small and fast IPv4 network address tool (75% faster then netaddr)
@@ -43,3 +42,9 @@ for ip in test_ip_list:
         print ip, "\tis non-local"
 
 ```
+
+written: Peter Shipley
+
+https://github.com/evilpete/simple_cidr
+
+Sun Dec 16 20:11:53 PST 2018
